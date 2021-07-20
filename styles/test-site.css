@@ -54,17 +54,17 @@ html {
 #vertical {
   margin-top: -2%;
   position: absolute;
-  left: 35%;
+  left: 35% !important;
 }
 
 #vertical1 {
   margin-top: -2%;
   position: absolute;
-  left: 55%;
+  left: 55% !important;
 }
 
 #vertical2 {
   margin-top: -2%;
   position: absolute;
-  left: 76%;
+  left: 76% !important;
 }
